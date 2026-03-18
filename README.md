@@ -4,6 +4,8 @@
 
 My goal is to bridge the gap between business strategy and technical execution, leveraging my background in economics to lead high-performing web development teams.
 
+👩🏻‍💻 ![My Personality Type](https://www.16personalities.com/profiles/1a14e8a1366ed): ESTJ-A  
+
 ## 🚀 About Me
 - 🎓 **Education:** Pursuing a Bachelor's degree in Economics and Management (Prague, CZ).
 - 🌍 **Origin:** Proudly from **Kazakhstan** 🇰🇿, currently based in the Czech Republic 🇨🇿.
@@ -16,25 +18,23 @@ My goal is to bridge the gap between business strategy and technical execution, 
 - **Russian:** Native
 - **Kazakh:** Native/Fluent
 
-👩🏻‍💻 [My Personality Type](https://www.16personalities.com/profiles/1a14e8a1366ed): ESTJ-A  
-
 
 ## 📈 GitHub Statistics
 ![Anuar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NnnotAnwar&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NnnotAnwar&layout=compact&theme=dark)
 
-## CONTACT
+## Contacts
 - **Telegram**: @anwar_kk
 - **Discord**: @anwarnnnot
 - **Email**: anuarkairulla@gmail.com  
 
 
-### 💻 LANGUAGES
+### 💻 Tech Languages
 
 <code><img height="20" src="assets/svg/js.svg" alt="js" /></code>
 <code><img height="20" src="assets/svg/ts.svg" alt="ts" /></code>
 
 
-## 📂 PROJECTS
+## 📂 Projects
 
 - **Planuj-Smeny app**: A modern, cross-platform shift management application built for employees and managers. This app provides real-time updates on active shifts, colleague presence, and location-based check-ins.  
