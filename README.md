@@ -24,7 +24,7 @@ My goal is to bridge the gap between business strategy and technical execution, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NnnotAnwar&layout=compact&theme=dark)
 
 ## Contacts
-- **Telegram**: @anwar_kk
+- **Telegram**: [@anwar_kk](t.me/anwar_kk)
 - **Discord**: @anwarnnnot
 - **Email**: anuarkairulla@gmail.com  
 
