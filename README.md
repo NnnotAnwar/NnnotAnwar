@@ -20,8 +20,8 @@ My goal is to bridge the gap between business strategy and technical execution, 
 
 
 ## 📈 GitHub Statistics
-![Anuar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Anuar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NnnotAnwar&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NnnotAnwar&layout=compact&theme=dark)
 
 ## CONTACT
 - **Telegram**: @anwar_kk
