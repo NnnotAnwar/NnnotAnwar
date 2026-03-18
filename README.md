@@ -27,7 +27,7 @@ My goal is to bridge the gap between business strategy and technical execution, 
 ## Contacts
 - **Telegram**: [@anwar_kk](https://t.me/anwar_kk)
 - **Discord**: @anwarnnnot
-- # **Email**: anuarkairulla@gmail.com  
+- **Email**: anuarkairulla@gmail.com  
 
 
 ### Development
