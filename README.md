@@ -6,21 +6,21 @@ My goal is to bridge the gap between business strategy and technical execution, 
 
 👩🏻‍💻 [My Personality Type](https://www.16personalities.com/profiles/1a14e8a1366ed): ESTJ-A  
 
-## 🚀 About Me
-- 🎓 **Education:** Pursuing a Bachelor's degree in Economics and Management (Prague, CZ).
-- 💻 **Technical Focus:** Currently mastering **TypeScript** and **React** to build scalable and modern web applications.
-- 🌍 **Origin:** Proudly from **Kazakhstan** 🇰🇿, currently based in the Czech Republic 🇨🇿.
-- 🎯 **Focus:** Agile Methodologies, Product Management, and Scalable Web Architectures.
-- ⏱️ **My time zone** `UTC/GMT+1` | **Summer time** `UTC/GMT+2`
+## About Me
+- **Education:** Pursuing a Bachelor's degree in Economics and Management (Prague, CZ).
+- **Technical Focus:** Currently mastering **TypeScript** and **React** to build scalable and modern web applications.
+- **Origin:** Proudly from **Kazakhstan** 🇰🇿, currently based in the Czech Republic 🇨🇿.
+- **Focus:** Agile Methodologies, Product Management, and Scalable Web Architectures.
+- **My time zone** `UTC/GMT+1` | **Summer time** `UTC/GMT+2`
 
-## 🗣 Languages
+## Languages
 - **English:** Upper-Intermediate (B2)
 - **Czech:** Upper-Intermediate (B2)
 - **Russian:** Native
 - **Kazakh:** Native/Fluent
 
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 ![Anuar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NnnotAnwar&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NnnotAnwar&layout=compact&theme=dark)
 
@@ -30,7 +30,7 @@ My goal is to bridge the gap between business strategy and technical execution, 
 - **Email**: anuarkairulla@gmail.com  
 
 
-### 💻 Development
+### Development
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -39,6 +39,6 @@ My goal is to bridge the gap between business strategy and technical execution, 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 📂 Projects
+## Projects
 
 - **Planuj-Smeny app**: A modern, cross-platform shift management application built for employees and managers. This app provides real-time updates on active shifts, colleague presence, and location-based check-ins.  
