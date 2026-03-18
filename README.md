@@ -1,4 +1,4 @@
-# Hi there, it is NnnotAnwar
+# Hi there, it is NnnotAnwar 👋
 
 ### UCT Prague Student | Web-Developer 
 
