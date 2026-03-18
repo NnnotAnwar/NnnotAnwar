@@ -4,7 +4,7 @@
 
 My goal is to bridge the gap between business strategy and technical execution, leveraging my background in economics to lead high-performing web development teams.
 
-👩🏻‍💻 ![My Personality Type](https://www.16personalities.com/profiles/1a14e8a1366ed): ESTJ-A  
+👩🏻‍💻 [My Personality Type](https://www.16personalities.com/profiles/1a14e8a1366ed): ESTJ-A  
 
 ## 🚀 About Me
 - 🎓 **Education:** Pursuing a Bachelor's degree in Economics and Management (Prague, CZ).
@@ -33,6 +33,10 @@ My goal is to bridge the gap between business strategy and technical execution, 
 
 <code><img height="20" src="assets/svg/js.svg" alt="js" /></code>
 <code><img height="20" src="assets/svg/ts.svg" alt="ts" /></code>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 📂 Projects
